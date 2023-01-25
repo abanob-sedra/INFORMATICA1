@@ -1,4 +1,11 @@
-
+/** ****************************************************************************************
+* \mainpage amcd.c
+*
+* @brief Scrivere una funzione chiamata "mcd" che prende in input due numeri interi e restituisce il loro massimo comune divisore utilizzando l'algoritmo di Euclide. 
+* 
+* @author Abanob Sedra
+* @date 20/01/2023
+*/
 #include <stdio.h>
 #include <limits.h>
 

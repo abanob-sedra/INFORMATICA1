@@ -1,7 +1,7 @@
 /** ****************************************************************************************
-* \mainpage b_sommadivisori.c
+* \mainpage c_arearettangolo.c
 *
-* @brief Scrivere una funzione chiamata "somma_divisori" che prende in input un numero intero e restituisce la somma dei suoi divisori.
+* @brief Scrivere una funzione chiamata "area_rettangolo" che prende in input la base e l'altezza di un rettangolo e restituisce l'area. 
 * 
 * @author Abanob Sedra
 * @date 20/01/2023
